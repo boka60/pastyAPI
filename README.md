@@ -83,7 +83,7 @@ This request takes `paste_id` as an argument. This will give you **`RAW`** outpu
 http://localhost:3000/api/paste/4790bf53-a976-4788-9130-047486ebcf05/raw
 ```
 **`Response:`**
-```json
+```
 example paste content
  ```
 
@@ -103,4 +103,4 @@ http://localhost:3000/api/paste/delete/4790bf53-a976-4788-9130-047486ebcf05
 
 
 ## License
-[MIT](https://github.com/boka60/pastyAPI/LICENCE)
+[MIT](https://github.com/boka60/pastyAPI/blob/main/LICENSE)
