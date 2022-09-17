@@ -1,6 +1,7 @@
 <p align="center" width="100%">
     <img width="33%" src="https://cdn.discordapp.com/attachments/939918273372385320/1020811319743631390/logo.png"> 
 </p>
+
 # pastyAPI
 
 pastyAPI is a simple API to make, read, update and delete text with Node.JS and Express.
@@ -10,11 +11,17 @@ pastyAPI is a simple API to make, read, update and delete text with Node.JS and 
 - Node.JS
 - NPM package manager. (You have this if you install Node.js with default settings)
 
-## Setting up a workspace
+## Installation
+### Cloning a project from github
+```bash
+git clone https://github.com/boka60/pastyAPI && cd pastyAPI
+```
+
 ### Install node dependencies
 ```bash
 npm install
 ```
+
 
 ### Start API server
 ```bash
