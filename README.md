@@ -1,3 +1,6 @@
+<p align="center" width="100%">
+    <img width="33%" src="https://cdn.discordapp.com/attachments/939918273372385320/1020811319743631390/logo.png"> 
+</p>
 # pastyAPI
 
 pastyAPI is a simple API to make, read, update and delete text with Node.JS and Express.
